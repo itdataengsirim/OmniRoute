@@ -1,0 +1,3 @@
+# per-machine scan state (baselines, reports) and run logs stay local
+state/
+*.log
